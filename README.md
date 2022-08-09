@@ -6,11 +6,5 @@
 ## How to check???
 
 Enter random and when you want to stop just enter "done" .The program will stop automatically and show max and minimum number 
-## Running Tests
 
-To run tests, run the following command
-
-```bash
-  npm run test
-```
 
